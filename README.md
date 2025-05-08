@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lynlim0904&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/lynlim0904"
-  width="1000"
+  width="1200"
   height="300"
 />
 </a>
